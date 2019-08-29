@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="prototype-machining-rapid-understands.html"}
+if(x=="1"){xxx="prototype-machining-rapid-understands_28.html"}
 if(x=="2"){xxx="what-r-th-ftur-of-clud-pbx-srv.html"}
 if(x=="3"){xxx="could-claims-challenge-current.html"}
 if(x=="4"){xxx="how-important-are-insurance-carrier.html"}
